@@ -1,12 +1,12 @@
 # Offensive Security in a Controlled Sandbox (Ethical Hacking)
 
-**Author:** Pedro Yáñez Meléndez  
+**Author:** Pedro Yanez Melendez  
 **Date:** 2025-12-15
 
 ## What this is
 A focused set of offensive-security checks paired with the corresponding defensive controls, implemented with local Flask services + local data in a controlled sandbox. Each technique includes a clear “unsafe vs safe” contrast and a quick verification step.
 
-## What you can show on GitHub
+## What was done
 - Practical implementations of common web/security weaknesses and the correct mitigations
 - Repeatable validation using HTTP status codes, headers, and deterministic responses
 - Clean, readable Python services and client-side checks (requests)
