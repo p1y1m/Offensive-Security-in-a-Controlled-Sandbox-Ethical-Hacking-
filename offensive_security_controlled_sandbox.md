@@ -6,7 +6,7 @@
 ## What this is
 A focused set of offensive-security checks paired with the corresponding defensive controls, implemented with local Flask services + local data in a controlled sandbox. Each technique includes a clear “unsafe vs safe” contrast and a quick verification step.
 
-## What was done
+## Implementation summary
 - Practical implementations of common web/security weaknesses and the correct mitigations
 - Repeatable validation using HTTP status codes, headers, and deterministic responses
 - Clean, readable Python services and client-side checks (requests)
